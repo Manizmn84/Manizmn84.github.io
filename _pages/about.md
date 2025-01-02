@@ -1,5 +1,5 @@
 ---
-layout: home page
+layout: about
 title: home page
 permalink: /
 subtitle: about mani
