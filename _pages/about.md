@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>301 ROOM</p>
-    <p>IUST DORM</p>
-    <p>Tehran</p>
+    <p>301 ROOM</p><br>
+    <p>IUST DORM</p><br>
+    <p>Tehran</p><br>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
