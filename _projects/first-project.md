@@ -4,7 +4,7 @@ title: first Project
 description: random image from city
 img: assets/img/london.jpeg
 importance: 1
-category: habit
+category: fun
 related_publications: true
 ---
 
