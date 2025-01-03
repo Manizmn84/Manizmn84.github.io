@@ -206,6 +206,11 @@ ninja.data = [{
           description: "random image from city",
           section: "Projects",handler: () => {
               window.location.href = "/projects/first-project/";
+            },},{id: "projects-second-project",
+          title: 'second Project',
+          description: "explain how to use AI in stack",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/second-project/";
             },},{
         id: 'social-email',
         title: 'email',
