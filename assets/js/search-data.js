@@ -211,6 +211,11 @@ ninja.data = [{
           description: "explain how to use AI in stack",
           section: "Projects",handler: () => {
               window.location.href = "/projects/second-project/";
+            },},{id: "projects-third-project",
+          title: 'third Project',
+          description: "a project with image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/third-project/";
             },},{
         id: 'social-email',
         title: 'email',
