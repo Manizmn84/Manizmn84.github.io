@@ -79,7 +79,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-code",
+            },{id: "post-a-post-with-math",
+      
+        title: "a post with math",
+      
+      description: "an example of a blog with math formatting",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/math/";
+        
+      },
+    },{id: "post-a-post-with-code",
       
         title: "a post with code",
       
@@ -88,6 +99,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2025/code/";
+        
+      },
+    },{id: "post-a-post-with-images",
+      
+        title: "a post with images",
+      
+      description: "this is image from london",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/images/";
         
       },
     },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
@@ -121,17 +143,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2015/math/";
-        
-      },
-    },{id: "post-a-post-with-images",
-      
-        title: "a post with images",
-      
-      description: "this is what included images could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/images/";
         
       },
     },{id: "news-a-simple-inline-announcement",
